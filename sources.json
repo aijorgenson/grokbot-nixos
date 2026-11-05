@@ -1,13 +1,13 @@
 {
-  "version": "0.78.4",
+  "version": "0.78.5",
   "sources": {
     "x86_64-linux": {
-      "url": "https://downloads.cursor.com/grokbot/stable/5a890c0d0fc9c678c5a339eb86b31dcfbd0b4730/linux/x64/Grok_Bot_0.78.4.AppImage",
-      "hash": "sha256-J8x+kdqPykZahQpmwG8TeOMIACZsRCJDjFhYPK2NW1A="
+      "url": "https://downloads.cursor.com/grokbot/stable/87b31da762ca894e084ea1a069477801c85166a3/linux/x64/Grok_Bot_0.78.5.AppImage",
+      "hash": "sha256-0ID4Furn0Fhzj0kcFGCS8eO31NQ/0ojydHAFWSIfhIU="
     },
     "aarch64-linux": {
-      "url": "https://downloads.cursor.com/grokbot/stable/5a890c0d0fc9c678c5a339eb86b31dcfbd0b4730/linux/arm64/Grok_Bot_0.78.4.AppImage",
-      "hash": "sha256-6l0acuOhvatlpnz3/v5sfkWfX5L7kFg3PFw1tZa1CV4="
+      "url": "https://downloads.cursor.com/grokbot/stable/87b31da762ca894e084ea1a069477801c85166a3/linux/arm64/Grok_Bot_0.78.5.AppImage",
+      "hash": "sha256-0D04nqs08SI5V9HswvPd+wyK39h2rI2ecnZqD8GLTSE="
     }
   }
 }
